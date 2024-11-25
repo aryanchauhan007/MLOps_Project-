@@ -13,7 +13,7 @@ The purpose of this repository is to demonstrate how ZenML empowers your busines
 ---
 Let's jump into the Python packages you need. Within the Python environment of your choice, run:
 ```bash
-git clone https://github.com/zenml-io/zenml-projects.git
+git clone https://github.com/aryanchauhan007/MLOps_Project-.git
 cd zenml-projects/customer-satisfaction
 pip install -r requirements.txt
 ```
